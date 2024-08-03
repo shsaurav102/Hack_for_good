@@ -1,0 +1,12 @@
+*.ppk
+*.pem
+.env
+users.db
+requests.db
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store

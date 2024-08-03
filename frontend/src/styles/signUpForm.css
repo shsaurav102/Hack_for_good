@@ -1,0 +1,26 @@
+.formCtn{
+  width: 300px;
+  border: 1px solid magenta;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1em
+}
+.inputVal{
+  padding: 0.5em;
+  width: 80%;
+}
+
+.selectBtn {
+  padding: 0.5em;
+  width: 80%;
+}
+
+.signUpBtn {
+  width: 80%;
+  padding: 0.5em;
+}
